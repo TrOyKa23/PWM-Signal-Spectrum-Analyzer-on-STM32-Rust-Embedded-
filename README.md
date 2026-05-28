@@ -4,7 +4,7 @@ Real-time audio spectrum visualization using DFT on embedded hardware
 
 :::info
 
-**Author**: Mykyta Troinych \
+**Author**: TrOyKa23 \
 **GitHub Project Link**: https://github.com/UPB-PMRust-Students/fils-project-2026-TrOyKa23
 :::
 
